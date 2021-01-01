@@ -1,6 +1,7 @@
 # 2020-1-jsp-final-project
 2020년도 1학기 jsp 파이널 프로젝트
-### 로그인 화면
+
+### 사용자 등록 화면
 ![1](https://user-images.githubusercontent.com/55534787/103437430-1441cb80-4c6b-11eb-86da-ce386a4a00e4.png)
 
 ### 탈퇴 화면
